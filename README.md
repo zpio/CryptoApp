@@ -1,4 +1,5 @@
-# Crypto Web App
+# Cryptocurrency Web App
+
 Cryptocurrency Forecast en R Shiny 
 
 <https://franciscoz.shinyapps.io/CryptoApp/>
